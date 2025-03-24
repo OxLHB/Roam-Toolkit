@@ -1,0 +1,3 @@
+.roam-article:has(> div:first-child > .rm-level-0 > .roam-block-container[data-page-title*=", 20"]) > div:first-child > div:first-child{
+    display: none;
+  }
