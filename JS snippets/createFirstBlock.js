@@ -21,6 +21,7 @@ const onClick = async () => {
 
 const handler = (e) => {
     if(e.ctrlKey && e.shiftKey && e.code === "Enter") {
+      // if you want to make more space, plz add more `onClick()` you like
       onClick();
       onClick();
      }
